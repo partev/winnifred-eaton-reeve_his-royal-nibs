@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/winnifred-eaton-reeve/his-royal-nibs</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-09-27T20:41:54Z</dc:date>
+		<meta property="dcterms:modified">2026-09-27T20:41:54Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -37,18 +37,18 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2007100375</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<meta property="schema:abstract">A young Englishman finds a new purpose in life by becoming a hired hand at a ranch in Canada.</meta>
+		<meta property="schema:abstract">A young Englishman finds a new purpose in life as a hired hand at a ranch in Canada.</meta>
 		<dc:description>
-			&lt;p&gt;A young man, dubbed “Cheerio” for his English background, clean appearance and well-kept suit, unexpectadly arrives at the highly regarded O Bar O ranch with one goal in mind, to offer his services as a hired hand and find a new start in life in a foreign land. The ranch’s foreman, Bully Bill, surprised and irritated by the unwelcomed stranger, decides to give Cheerio the job he seeks after witnessing his ability to keep his composure in the presence of a startled herd and preventing the ranch owner’s son from getting injured after losing control of his bronco, seeing the potential in the man to become a good cowboy.&lt;/p&gt;
-			&lt;p&gt;At his first step into the world of ranching, Cheerio receives various tasks meant to test his skills as a worker and to have some fun at his expense. Despite the odds being against him, Cheerio proves his worth at every given opportunity and earns the respect, both honest and begrudging in nature, from riders and cowpunchers alike. His hard working day-to-day routine is balanced with his developing friendship with the boy he saved, Sandy McPherson, and his sister Hilda, to whom he develops a liking to and has become the subject of Cheerio’s artistic endeavours, even if her feelings towards him remain complex, as she both likes and dislikes him as a person and a ranch hand.&lt;/p&gt;
-			&lt;p&gt;Everything seems to be going well for Cheerio until an incident during the cattle’s processing at the branding corral brings back uncomfortable memories of his past life. Being deemed a coward and a weak man by his boss and peers, Cheerio grasps at one final chance to reclaim his life at the ranch and avoid getting fired before he could ever achieve his dream: play a nightly game of chess with Canadian Champion and famous rancher P. D. McPherson, a challenge of wills and strategy that places him in a position where his job is on the line and he cannot afford to lose.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;His Royal Nibs&lt;/i&gt; is a story of resilience, newfound love and fresh beginnings inspired by &lt;a href="https://standardebooks.org/ebooks/winnifred-eaton-reeve"&gt;Winnifred Eaton Reeve’s&lt;/a&gt; focus on writing fiction set in Alberta, Canada after spending her earlier career in Japanese-themed works under a variety of pseudonyms, the most famous of which being “Onoto Watanna.” This work would turn out to be her last published novel, dedicating her creative efforts later in life to the film industry throughout several credited and ghostwriting-related roles.&lt;/p&gt;
+			&lt;p&gt;A young man dubbed “Cheerio” for his English background, clean appearance, and well-kept suit, unexpectedly arrives at the highly regarded O Bar O ranch with one goal in mind: to offer his services as a hired hand, and thus find a new start in life in a foreign land. The ranch’s foreman, Bully Bill, surprised and irritated by the unwelcome stranger, decides to give Cheerio the job after witnessing his cool composure in the presence of a startled herd, preventing the ranch owner’s son from getting injured.&lt;/p&gt;
+			&lt;p&gt;Cheerio proves his worth at every opportunity and earns the respect, both honest and begrudging, from riders and cowpunchers alike. His hard working day-to-day routine is balanced by his developing friendship with the boy he saved, Sandy McPherson, and the boy’s his sister Hilda, for whom Cheerio develops a liking and who has become the subject of Cheerio’s artistic endeavors.&lt;/p&gt;
+			&lt;p&gt;Everything seems to be going well for Cheerio until an incident at the branding corral brings back uncomfortable memories of his past life. Being deemed a coward and a weak man by his boss and peers, Cheerio grasps at one final chance to redeem himself and achieve his dream: to play a nightly game of chess with Canadian champion and famous rancher P. D. McPherson.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;His Royal Nibs&lt;/i&gt; is a story of resilience, newfound love, and fresh beginnings inspired by &lt;a href="https://standardebooks.org/ebooks/winnifred-eaton-reeve"&gt;Winnifred Eaton Reeve’s&lt;/a&gt; desire to write fiction set in Alberta, Canada after a career spent writing Japanese-themed works under a variety of pseudonyms, the most famous of which being “Onoto Watanna.” &lt;i&gt;His Royal Nibs&lt;/i&gt; would turn out to be her last published novel.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/66184</dc:source>
 		<dc:source>https://archive.org/details/P005039</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">51265</meta>
+		<meta property="schema:educationalLevel">71.34</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/winnifred-eaton-reeve_his-royal-nibs" refines="#vcs-repository" rel="schema:codeRepository"/>
@@ -80,6 +80,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
